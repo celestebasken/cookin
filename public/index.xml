@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About this blog and me</title>
       <link>/about/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello, I’m John Doe Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product.</description>
+      <description>Welcome to Curated by Celeste! I&amp;rsquo;m a high school student from the DC metro area who enjoys cooking and baking!</description>
     </item>
     
     <item>
@@ -180,19 +180,19 @@
     
     <item>
       <title>Homepage 1</title>
-      <link>/homepage/home-1/</link>
+      <link>/homepage/trending-now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/homepage/home-1/</guid>
+      <guid>/homepage/trending-now/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homepage 2</title>
-      <link>/homepage/home-2/</link>
+      <link>/homepage/recent-posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/homepage/home-2/</guid>
+      <guid>/homepage/recent-posts/</guid>
       <description></description>
     </item>
     

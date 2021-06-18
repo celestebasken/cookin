@@ -64,13 +64,13 @@
         <li class="nav-item dropdown">
           <a class="nav-link text-uppercase text-dark dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">
-            Homepage
+            Explore
           </a>
           <div class="dropdown-menu" >
             
-            <a class="dropdown-item" href="/homepage/home-1">Homepage 1</a>
+            <a class="dropdown-item" href="/homepage/recent-posts">Recent posts</a>
             
-            <a class="dropdown-item" href="/homepage/home-2">Homepage 2</a>
+            <a class="dropdown-item" href="/homepage/trending-now">Trending now</a>
             
           </div>
         </li>
@@ -79,12 +79,6 @@
         
         <li class="nav-item">
           <a class="nav-link text-uppercase text-dark" href="/about">About</a>
-        </li>
-        
-        
-        
-        <li class="nav-item">
-          <a class="nav-link text-uppercase text-dark" href="/contact">Contact</a>
         </li>
         
         
@@ -364,46 +358,6 @@
 
 
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-light ml-2">I Accept</span>
-</div>
-<script>
-	(function ($) {
-		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
-			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires:  2 
-				});
-				cookieBox.classList.add('cookie-box-hide');
-			};
-		}
-	})(jQuery);
-</script>
-
-
-<style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
-
-.cookie-box-hide {
-  display: none;
-}
-</style>
 
 </body>
 </html>

@@ -1,36 +1,18 @@
 ---
-title: "About"
+title: "About this blog and me"
 date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+description: "My cooking and baking history"
 image: "images/author.jpg"
 ---
 
-### Hello, I’m **John Doe**
+### Welcome to Curated by Celeste!
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+I'm a high school student from the DC metro area who enjoys cooking and baking! I taught myself to cook from internet blogs like this one and cookbooks from renowned chefs, and I created this blog to give back to that community and help other people get more comfortable in the kitchen!
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+On this blog, you will find some recipes that I put together myself and others that I adapted from other sources (always credited!). As you may see, however, I'm not much of a strict recipe-follower*, and I believe that the best directions come from your own tastebuds, and you need to check things yourself to see how you like them.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+* This is not true of real baking, like bread baking, which is a science and often has measurements for a reason. But skepticism is healthy!
 
+All of my recipes are meat-free, as I am a pescatarian (I do eat fish and seafood, along with eggs and dairy, but not poultry or meat). This is primarily for sustainability reasons, and I hope everyone can enjoy more meat-free meals to help protect the planet. It's all about working in the right direction- I certainly try to avoid fish and dairy as well if I can help it. I don't subscribe to any particular diet or regime, and I think the main thing is to eat more plant-based and enjoy the food you eat!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+This website may seem a little non-traditional, because I made it myself in the programming language R, which is typically used for data visualization. If you want to read more about my experience coding, please check out my [R blog](https://celestesrblog.netlify.app/).
