@@ -1,18 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Parsa Hugo | Personal Blog Template</title>
+    <title>Tags on Curated by Celeste | Delicious recipes</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Parsa Hugo | Personal Blog Template</description>
+    <description>Recent content in Tags on Curated by Celeste | Delicious recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 14:46:10 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Candy</title>
+      <link>/tags/candy/</link>
+      <pubDate>Thu, 17 Jun 2021 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/candy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halloween</title>
+      <link>/tags/halloween/</link>
+      <pubDate>Thu, 17 Jun 2021 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/halloween/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kids</title>
+      <link>/tags/kids/</link>
+      <pubDate>Thu, 17 Jun 2021 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/kids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex</title>
+      <link>/tags/complex/</link>
+      <pubDate>Fri, 14 May 2021 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scratch</title>
+      <link>/tags/scratch/</link>
+      <pubDate>Fri, 14 May 2021 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/scratch/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Article</title>
       <link>/tags/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eggs</title>
+      <link>/tags/eggs/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/eggs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elaborate</title>
+      <link>/tags/elaborate/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/elaborate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entree</title>
+      <link>/tags/entree/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/entree/</guid>
       <description></description>
     </item>
     
@@ -67,6 +139,33 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetables</title>
+      <link>/tags/vegetables/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/vegetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetarian</title>
+      <link>/tags/vegetarian/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weeknight dinner</title>
+      <link>/tags/weeknight-dinner/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/tags/weeknight-dinner/</guid>
       <description></description>
     </item>
     

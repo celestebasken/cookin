@@ -1,7 +1,7 @@
 # default config
 baseurl = "/"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Curated by Celeste | Delicious recipes"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -79,9 +79,9 @@ preloader = true
 # search
 search = true
 # about author
-author = "John Doe"
+author = "Celeste"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "Hey, I’m Celeste! Check out the about page for more."
 # Contact info
 mobile = "+90 000 333 22"
 email = "exmaple@ymail.com"
@@ -89,7 +89,7 @@ address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Celeste Basken 2021"
 
 # Instagram feed
 [params.instafeed]

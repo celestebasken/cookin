@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asian on Curated by Celeste | Delicious recipes</title>
+    <link>/categories/asian/</link>
+    <description>Recent content in Asian on Curated by Celeste | Delicious recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="/categories/asian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sushi</title>
+      <link>/blog/sushi/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/blog/sushi/</guid>
+      <description>I love sushi.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

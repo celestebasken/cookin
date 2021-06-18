@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/candy/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/categories/cookies/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/blog/garbage-cookies/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/halloween/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/kids/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-06-17T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/categories/baking/</loc>
+    <lastmod>2021-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/categories/bread/</loc>
+    <lastmod>2021-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/complex/</loc>
+    <lastmod>2021-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/scratch/</loc>
+    <lastmod>2021-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/blog/sourdough-bread/</loc>
+    <lastmod>2021-05-14T14:46:10+06:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
@@ -11,31 +53,10 @@
     <loc>/categories/article/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>/categories/asian/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.1/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.10/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.11/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.2/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.3/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.4/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/charming-evening-field.5/</loc>
+    <loc>/categories/breakfast/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
     <loc>/blog/charming-evening-field.6/</loc>
@@ -53,6 +74,21 @@
     <loc>/blog/charming-evening-field/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
+    <loc>/blog/eggs-and-veggies-breakfast/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/blog/weeknight-tacos/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/eggs/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/elaborate/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/entree/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
     <loc>/tags/fashion/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
@@ -66,6 +102,9 @@
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
     <loc>/categories/food/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/blog/baked-cauliflower/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
     <loc>/tags/nature/</loc>
@@ -89,9 +128,6 @@
     <loc>/blog/organize-your-life/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url><url>
     <loc>/tags/philosophy/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
@@ -101,20 +137,35 @@
     <loc>/tags/photos/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/blog/cherry-jam/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/blog/sushi/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/categories/tex-mex/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
     <loc>/categories/valuable-idea/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
+    <loc>/tags/vegetables/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/vegetarian/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/weeknight-dinner/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
     <loc>/contact/</loc>
-  </url><url>
-    <loc>/homepage/trending-now/</loc>
-  </url><url>
-    <loc>/homepage/recent-posts/</loc>
   </url><url>
     <loc>/homepage/</loc>
   </url><url>
+    <loc>/homepage/recent-posts/</loc>
+  </url><url>
     <loc>/search/</loc>
+  </url><url>
+    <loc>/homepage/trending-now/</loc>
   </url>
 </urlset>

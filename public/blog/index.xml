@@ -1,73 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Parsa Hugo | Personal Blog Template</title>
+    <title>Blogs on Curated by Celeste | Delicious recipes</title>
     <link>/blog/</link>
-    <description>Recent content in Blogs on Parsa Hugo | Personal Blog Template</description>
+    <description>Recent content in Blogs on Curated by Celeste | Delicious recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 14:46:10 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.1/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>Garbage (candy) cookies</title>
+      <link>/blog/garbage-cookies/</link>
+      <pubDate>Thu, 17 Jun 2021 14:46:10 +0600</pubDate>
       
-      <guid>/blog/charming-evening-field.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/blog/garbage-cookies/</guid>
+      <description>Once of my favorite cookies!
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.10/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <title>Sourdough bread</title>
+      <link>/blog/sourdough-bread/</link>
+      <pubDate>Fri, 14 May 2021 14:46:10 +0600</pubDate>
       
-      <guid>/blog/charming-evening-field.10/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.11/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.11/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.2/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.3/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.4/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/blog/charming-evening-field.5/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>/blog/charming-evening-field.5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/blog/sourdough-bread/</guid>
+      <description>Amazing sourdough bread!
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -116,6 +73,34 @@
     </item>
     
     <item>
+      <title>Easy healthy breakfast</title>
+      <link>/blog/eggs-and-veggies-breakfast/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/blog/eggs-and-veggies-breakfast/</guid>
+      <description>I love this easy breakfast, and I like how it helps me eat vegetables!</description>
+    </item>
+    
+    <item>
+      <title>Easy weeknight tacos</title>
+      <link>/blog/weeknight-tacos/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/blog/weeknight-tacos/</guid>
+      <description>We probably eat these tacos or burritos once a week, because they are so tasty and come together so quickly.</description>
+    </item>
+    
+    <item>
+      <title>Garlic parmasean cauliflower bake</title>
+      <link>/blog/baked-cauliflower/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/blog/baked-cauliflower/</guid>
+      <description>I love this cauliflower recipe.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
       <title>Organize Your Life With 10 Simple rule</title>
       <link>/blog/organize-your-life.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
@@ -158,6 +143,26 @@
       
       <guid>/blog/organize-your-life/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Sour cherry jam</title>
+      <link>/blog/cherry-jam/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/blog/cherry-jam/</guid>
+      <description>Jam!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Sushi</title>
+      <link>/blog/sushi/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/blog/sushi/</guid>
+      <description>I love sushi.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

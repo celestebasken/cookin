@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baking on Curated by Celeste | Delicious recipes</title>
+    <link>/categories/baking/</link>
+    <description>Recent content in Baking on Curated by Celeste | Delicious recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 14:46:10 +0600</lastBuildDate><atom:link href="/categories/baking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sourdough bread</title>
+      <link>/blog/sourdough-bread/</link>
+      <pubDate>Fri, 14 May 2021 14:46:10 +0600</pubDate>
+      
+      <guid>/blog/sourdough-bread/</guid>
+      <description>Amazing sourdough bread!
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

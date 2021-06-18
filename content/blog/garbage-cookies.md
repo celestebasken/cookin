@@ -12,7 +12,7 @@ tags:
   - "Kids"
 ---
 
-Once of my favorite cookies cool
+Once of my favorite cookies!
 
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
